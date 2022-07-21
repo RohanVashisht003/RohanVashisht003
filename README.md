@@ -9,5 +9,5 @@
 - 📫 Reach me at sharmarohan544@gmail.com
 
 
-[LinkedIn](www.linkedin.com/in/rohan-sharma-937283167)
+<[LinkedIn](www.linkedin.com/in/rohan-sharma-937283167)>
 [My Portfolio](https://rohanvashisht003.github.io/my-portfolio/)
