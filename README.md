@@ -16,6 +16,6 @@
 
 
 
-[<img src='https://img.icons8.com/color/48/000000/linkedin.png'></img>](www.linkedin.com/in/rohan-sharma-937283167)
+[LinkedIn](www.linkedin.com/in/rohan-sharma-937283167)
 
 
