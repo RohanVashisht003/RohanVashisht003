@@ -16,6 +16,5 @@
 
 
 
-[LinkedIn](www.linkedin.com/in/rohan-sharma-937283167)
 
 
