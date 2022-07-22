@@ -18,4 +18,4 @@
 
 [![image](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/rohan-sharma-937283167)
 
-[![image  =150x150](https://user-images.githubusercontent.com/38130791/180478260-899fdfbb-4d47-486a-88b4-727961f4552b.png)](https://rohanvashisht003.github.io/my-portfolio/)
+
