@@ -14,6 +14,8 @@
 ### Backend
 ![image](https://user-images.githubusercontent.com/38130791/180477309-14524c9d-94ab-4530-8b14-ac9f9190c067.png) ![image](https://user-images.githubusercontent.com/38130791/180477334-01718168-39c3-4c8d-8f2c-110996222958.png) ![image](https://user-images.githubusercontent.com/38130791/180477368-1e6ec71f-bb58-48a5-b3c6-8cec1f75c58f.png) ![image](https://user-images.githubusercontent.com/38130791/180477397-8ffe8709-d89e-4fc9-ada0-76ea86e25d72.png) ![image](https://user-images.githubusercontent.com/38130791/180477448-0c1aa985-2fc5-4a06-a312-0a26e7c46681.png)
 
-[LinkedIn](www.linkedin.com/in/rohan-sharma-937283167)
+
+
+[![image](https://user-images.githubusercontent.com/38130791/180478064-5b4d6bb6-4f9b-4666-8749-1519eb2435ea.png)](www.linkedin.com/in/rohan-sharma-937283167)
 
 [My Portfolio](https://rohanvashisht003.github.io/my-portfolio/)
