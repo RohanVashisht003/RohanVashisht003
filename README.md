@@ -16,6 +16,6 @@
 
 
 
-[![image =250x250](https://user-images.githubusercontent.com/38130791/180478064-5b4d6bb6-4f9b-4666-8749-1519eb2435ea.png)](www.linkedin.com/in/rohan-sharma-937283167)
+[![image =150x150](https://user-images.githubusercontent.com/38130791/180478064-5b4d6bb6-4f9b-4666-8749-1519eb2435ea.png)](www.linkedin.com/in/rohan-sharma-937283167)
 
-[![image](https://user-images.githubusercontent.com/38130791/180478260-899fdfbb-4d47-486a-88b4-727961f4552b.png =250x250)](https://rohanvashisht003.github.io/my-portfolio/)
+[![image  =150x150](https://user-images.githubusercontent.com/38130791/180478260-899fdfbb-4d47-486a-88b4-727961f4552b.png)](https://rohanvashisht003.github.io/my-portfolio/)
