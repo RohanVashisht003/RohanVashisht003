@@ -4,8 +4,8 @@
 <!--
 **RohanVashisht003/RohanVashisht003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 😄 A passionate software engineer, fullstack developer. Available for job opportunities!
-- 🔭 I’m currently working as REACTJS developer
+- 😄 A passionate software engineer, frontend developer.
+- 🔭 I’m currently working as REACT.js developer
 - 📫 Reach me at sharmarohan544@gmail.com
 
 ## Technologies currently using
