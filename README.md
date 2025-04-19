@@ -3,8 +3,7 @@
 <!--
 **RohanVashisht003/RohanVashisht003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 😄 A passionate software engineer, frontend developer.
-- 🔭 I’m currently working as MERN stack developer
+- 🔭 I’m currently working as Full-stack developer
 - 📫 Reach me at sharmarohan544@gmail.com
 
 ## Technologies currently using
